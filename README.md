@@ -75,7 +75,7 @@ A modern, responsive food ordering frontend built with TypeScript and React, del
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: linkedin.com/in/varshitha-reddy-555b5433a/
+- 💼 LinkedIn: https://www.linkedin.com/in/varshitha-reddy-555b5433a/
 - 📧 Email: varshitha9843@gmail.com
 
 ---
