@@ -6,7 +6,7 @@
 💻 Full Stack Developer focused on building modern web applications
 🤖 Exploring Artificial Intelligence, Generative AI, and intelligent systems
 ☁️ Learning AI Infrastructure, Cloud Architecture, and System Design
-🚀 Building practical projects that combine software development and AI
+🚀 Building practical applications that combine software development and AI
 
 ---
 
@@ -77,38 +77,12 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🤖 AI Infrastructure Architect
-
-AI-powered platform that transforms project requirements into cloud architecture, cost estimates, team roles, architecture diagrams, and infrastructure-as-code.
-
-**Tech:** Python • FastAPI • React • AI • Cloud • RAG
-
----
-
-### 👗 Style Studio
-
-A smart virtual wardrobe platform that organizes outfits and provides AI-powered outfit recommendations based on weather, colors, trends, and user preferences.
-
-**Tech:** MERN Stack • AI • OpenWeather API • RAG
-
----
-
-### 🍔 Food-Tech Platform
-
-A modern food-tech web application focused on providing a smooth food discovery and ordering experience.
-
-**Tech:** React • Node.js • Express • MongoDB
-
----
-
 ## 📊 GitHub
 
 <p align="center">
 
 <a href="https://github.com/Varshithareddy22">
-<img src="https://img.shields.io/badge/View%20My%20GitHub%20Activity-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
